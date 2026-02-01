@@ -342,4 +342,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-- [Mantresh Khurana](https://github.com/mantreshkhurana)
+- [Amrit Raj](https://github.com/real-byte)
